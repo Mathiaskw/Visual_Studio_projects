@@ -1,0 +1,13 @@
+.imagehead {
+  display: block;
+  margin: auto;
+  width: 20%;
+}
+.red {
+  background-color: blue;
+  border: none;
+  padding: 2px;
+  width: 130px;
+  border-radius: 100px;
+
+}
