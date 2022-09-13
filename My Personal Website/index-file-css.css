@@ -1,0 +1,108 @@
+p {
+  line-height: 1.0;
+  margin-bottom: 0px;
+  font-family: 'Roboto', Times, serif, Arial, Helvetica, sans-serif;
+}
+body {
+  font-size: 22px;
+  color: black;
+  background-color: rgb(226, 223, 223);
+  padding: 25px;
+  width: auto;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+.image-div {
+width: 200px;
+margin-right: 10px;
+padding: 10px;
+}
+img {
+  border-radius: 20px;
+  width: 100%;
+}
+.heading {
+  display: flex;
+
+  flex-direction: column;
+  align-items: flex-start;
+  line-height: 1.8;
+  padding-bottom: 40px;
+}
+.main-div {
+  line-height: 1.4;
+  border: 2px solid rgb(121, 110, 112);
+  display: flex;
+  flex-direction: row;
+  border-radius: 10px;
+  width: auto;
+  margin-bottom: 40px;
+  margin-top: 0;
+  align-items: center;
+}
+.ima1 {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+.ima2 {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+.profile {
+  width: 300px;
+  display: block;
+  height: 300px;
+}
+.details {
+  margin-bottom: 0;
+  margin-top: 8px;
+}
+.div-profile {
+  display: inline-block;
+margin-right: 70px;
+}
+.div-details {
+  display: inline-block;
+  align-items: center;
+  margin-top: 0;
+}
+.prof-div {
+  display: flex;
+  align-items: center;
+  border: 3px solid gray;
+  margin-bottom: 40px;
+  border-radius: 15px;
+  padding: 8px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.welcome {
+  width: 60%;
+  margin-left: auto;
+margin-right: auto;
+}
+.other-divs {
+width: 100%;
+display: flex;
+object-fit: contain;
+flex-direction: row;
+padding-left: 20px;
+justify-content: center;
+}
+.one {
+  display: flex;
+  height: 300px;
+  width: 98%;
+}
+.two {
+  display: flex;
+  height: 300px;
+  width: 98%;
+}
+.three {
+  display: flex;
+  height: 300px;
+  width: 98%;
+}
